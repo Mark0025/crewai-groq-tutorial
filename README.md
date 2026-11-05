@@ -1,5 +1,11 @@
 # Results
 
+## About
+- **What it is:** An untouched copy of Brandon Hancock's YouTube tutorial code for CrewAI with Groq.
+- **Business:** learning
+- **Status:** inactive since 2024-04
+- **Source:** agent research 2026-11-04
+
 ## Groq
 
 - Average Speed: 18 Seconds
